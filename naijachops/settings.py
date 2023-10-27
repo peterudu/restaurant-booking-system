@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 # ALLOWED_HOSTS = ['8000-peterudu-restaurantbook-4kinguv0w8v.ws-eu105.gitpod.io']
-ALLOWED_HOSTS = ["naija-chops.herokuapp.com", "localhost"]
+ALLOWED_HOSTS = ["naija-chops-405961bd4f5d.herokuapp.com", "localhost"]
 
 
 # Application definition
