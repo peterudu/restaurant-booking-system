@@ -1,1 +1,1 @@
-web: gunicorn naija-chops.wsgi
+web: gunicorn naijachops.wsgi
